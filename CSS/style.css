@@ -1,0 +1,117 @@
+ body {
+   background-image: linear-gradient(#654898, rgb(203, 192, 209));
+   margin: 60px;
+
+}
+
+.menu ul {
+   display: flex;
+   text-decoration: none;
+}
+
+.menu ul li {
+   margin-left: 10px;
+   font-size: 30px;
+   font-family: system-ui;
+   list-style: none;
+   cursor: pointer;
+   color: aliceblue;
+   
+   
+}
+
+.milieu {
+   display: flex;
+}
+v
+.flex-container {
+   display: flex;
+  
+}
+
+.flex-containte{
+   font-size: 30px;
+   font-family: system-ui;
+   list-style: none;
+   cursor: pointer;
+   color: aliceblue;
+   margin-left: 100px;
+}
+
+.chiffre {
+   font-size: 100px;
+   font-family: system-ui;
+   align-items: center;
+   justify-content: right;
+   margin-left: 700px;
+   color: aliceblue;
+}
+
+.menu {
+   display: flex;
+   align-items: center;
+   justify-content: right
+}
+
+.image-container img {
+   width: 100%;
+}
+
+main {
+   color: aliceblue;
+   font-family: system-ui;
+   font-size: 20px;
+}
+
+main h1 {
+   font-size: 300%;
+}
+
+a:link, a:visited, a:focus {
+      background: rgb(236, 236, 229);
+    }
+.menu button {
+   border-radius: 1000px;
+   font-size: 70px;
+   
+}
+
+.milieu button {
+   font-size: 30px;
+   border-radius: 40px;
+}
+button{
+ color: #512b8d;
+ border-radius: 40px solid rgb(248, 246, 246)   ;
+ border-color: aliceblue;
+}
+
+.logo{
+   margin-left:100px;
+   
+}
+.liste_menu a{
+   color: rgb(255, 255, 255);
+}
+
+
+ .container-fluid li {
+   margin-right: 70px;
+   font-size: xx-large;
+   color: aliceblue;
+   white-space: 10px;
+   float: center;
+ }
+
+.container-fluid{
+  padding: 20px;
+  font-size: 20px;
+  width: 20px;
+}
+ 
+.container-fluid li button{
+   border-radius: 50px;
+}
+
+
+
